@@ -62,3 +62,18 @@ responsive-blog-template/
 - Smooth smooth-scrolling navigation
 - Hover-enhanced cards for better UX
 - Responsive grid layout for all devices
+
+---
+
+## 📝 License
+
+This project is licensed under the **MIT License**.  
+You are free to use, modify, and distribute it for **personal or educational purposes**.
+
+---
+
+## 👩‍💻 Author
+
+**Devi Patil**
+
+---
